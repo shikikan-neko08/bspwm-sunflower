@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/shikikan/Downloads/bebasid.sh" added="2022-07-22T09:57:01.248150Z" modified="2022-07-22T10:02:11.360105Z" visited="2022-07-22T09:57:01.248152Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2022-07-22T10:02:11.360102Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/sxhkd/sxhkdrc" added="2022-07-22T10:41:35.186935Z" modified="2022-08-15T21:40:00.357727Z" visited="2022-07-22T10:41:35.186936Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T00:21:57.491428Z" count="5"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:40:00.357726Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Downloads/99792823_p0.jpg" added="2022-07-23T05:48:11.720542Z" modified="2022-07-23T05:48:11.720659Z" visited="2022-07-23T05:48:11.720544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-07-23T05:48:11.720546Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/wallpaper" added="2022-08-06T15:40:47.526543Z" modified="2022-08-06T15:40:47.526548Z" visited="2022-08-06T15:40:47.526544Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2022-08-06T15:40:47.526545Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/kitty/kitty.conf" added="2022-08-07T00:29:55.971554Z" modified="2022-08-07T08:58:59.055041Z" visited="2022-08-07T00:29:55.971555Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T00:44:39.961204Z" count="2"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-07T08:58:59.055039Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/kitty/colors-kitty.conf" added="2022-08-07T00:34:06.806305Z" modified="2022-08-15T21:39:34.163444Z" visited="2022-08-07T00:34:06.806306Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T08:40:46.190170Z" count="7"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:39:34.163443Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/nyartix-rice/.config/kitty/colors-kitty.conf" added="2022-08-07T00:43:54.334318Z" modified="2022-08-07T00:43:54.334326Z" visited="2022-08-07T00:43:54.334319Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T00:43:54.334321Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/nyartix-rice/.config/kitty/kitty.conf" added="2022-08-07T00:43:59.553439Z" modified="2022-08-07T00:43:59.553444Z" visited="2022-08-07T00:43:59.553440Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T00:43:59.553442Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Downloads/hybrid.txt" added="2022-08-07T08:31:13.608947Z" modified="2022-08-07T08:31:13.608960Z" visited="2022-08-07T08:31:13.608949Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T08:31:13.608955Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/kitty/colors-kitty2.conf" added="2022-08-07T08:34:51.785607Z" modified="2022-08-15T21:39:38.569567Z" visited="2022-08-07T08:34:51.785608Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>xed</bookmark:group>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xed" exec="&apos;xed %u&apos;" modified="2022-08-07T08:34:51.785610Z" count="1"/>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:39:38.569564Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Downloads/11-Flat-Remix-GTK-Yellow_20211216.tar.xz" added="2022-08-07T08:49:02.905050Z" modified="2022-08-07T08:49:02.905054Z" visited="2022-08-07T08:49:02.905050Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-08-07T08:49:02.905052Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.themes" added="2022-08-07T08:49:34.451222Z" modified="2022-08-07T08:49:34.451227Z" visited="2022-08-07T08:49:34.451223Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-08-07T08:49:34.451224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Downloads/04-Flat-Remix-Yellow_20211105.tar.xz" added="2022-08-07T08:53:29.999371Z" modified="2022-08-07T08:53:29.999375Z" visited="2022-08-07T08:53:29.999372Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2022-08-07T08:53:29.999374Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.icons" added="2022-08-07T08:53:45.582988Z" modified="2022-08-07T08:53:45.582993Z" visited="2022-08-07T08:53:45.582989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2022-08-07T08:53:45.582990Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/nyartix-rice/.config/bspwm/bspwmrc" added="2022-08-07T09:03:04.432887Z" modified="2022-08-15T21:39:35.249417Z" visited="2022-08-07T09:03:04.432888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:39:35.249415Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/bspwm/bspwmrc" added="2022-08-07T09:04:10.373765Z" modified="2022-08-15T21:39:35.906260Z" visited="2022-08-07T09:04:10.373766Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:39:35.906257Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/polybar/config.ini" added="2022-08-07T10:32:31.403697Z" modified="2022-08-15T21:39:36.433087Z" visited="2022-08-07T10:32:31.403697Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:39:36.433074Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/nekocafe-rice/.config/polybar/config" added="2022-08-07T12:49:53.734300Z" modified="2022-08-07T12:49:53.743931Z" visited="2022-08-07T12:49:53.734301Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-07T12:49:53.743921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/neofetch/config.conf" added="2022-08-07T13:39:40.554229Z" modified="2022-08-07T13:39:40.554235Z" visited="2022-08-07T13:39:40.554230Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-07T13:39:40.554232Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/polybar/launch.sh" added="2022-08-08T00:57:24.873142Z" modified="2022-08-15T21:39:36.992418Z" visited="2022-08-08T00:57:24.873143Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:39:36.992415Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_12-52-51.png" added="2022-08-08T05:52:58.577744Z" modified="2022-08-08T09:18:48.639344Z" visited="2022-08-08T05:52:58.577745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T05:52:58.577746Z" count="1"/>
+          <bookmark:application name="ristretto" exec="&apos;ristretto %u&apos;" modified="2022-08-08T09:18:48.639342Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_12-53-19.png" added="2022-08-08T05:53:22.380609Z" modified="2022-08-08T05:53:22.380616Z" visited="2022-08-08T05:53:22.380611Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T05:53:22.380613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_13-01-57.png" added="2022-08-08T06:02:06.949514Z" modified="2022-08-08T06:02:06.949520Z" visited="2022-08-08T06:02:06.949515Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T06:02:06.949517Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/nvim/plug.vim" added="2022-08-08T08:21:15.545097Z" modified="2022-08-08T08:21:15.545103Z" visited="2022-08-08T08:21:15.545098Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-08T08:21:15.545101Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_16-56-56.png" added="2022-08-08T09:57:04.427760Z" modified="2022-08-08T09:57:04.427765Z" visited="2022-08-08T09:57:04.427761Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T09:57:04.427763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_16-59-33.png" added="2022-08-08T09:59:38.488220Z" modified="2022-08-08T09:59:38.488229Z" visited="2022-08-08T09:59:38.488221Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T09:59:38.488225Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_16-59-55.png" added="2022-08-08T09:59:58.266758Z" modified="2022-08-08T09:59:58.266766Z" visited="2022-08-08T09:59:58.266759Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T09:59:58.266763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_19-55-39.png" added="2022-08-08T12:55:41.688270Z" modified="2022-08-08T12:55:41.688276Z" visited="2022-08-08T12:55:41.688271Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T12:55:41.688273Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-08_20-11-28.png" added="2022-08-08T13:11:30.824327Z" modified="2022-08-08T13:11:30.824333Z" visited="2022-08-08T13:11:30.824328Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T13:11:30.824331Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/rofi-collection/dracula/dracula.rasi" added="2022-08-08T15:21:12.632072Z" modified="2022-08-08T15:21:12.632077Z" visited="2022-08-08T15:21:12.632072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-08T15:21:12.632075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/rofi/dracula.rasi" added="2022-08-08T15:25:21.146585Z" modified="2022-08-08T15:25:21.401056Z" visited="2022-08-08T15:25:21.146586Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-08T15:25:21.401054Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/rofi/config.rasi" added="2022-08-08T15:28:21.056872Z" modified="2022-08-08T15:28:21.056880Z" visited="2022-08-08T15:28:21.056872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-08T15:28:21.056876Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-09_04-26-44.png" added="2022-08-08T21:26:52.311124Z" modified="2022-08-08T21:26:52.311131Z" visited="2022-08-08T21:26:52.311126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-08T21:26:52.311129Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/cava/config" added="2022-08-10T08:06:47.297274Z" modified="2022-08-10T08:06:47.297282Z" visited="2022-08-10T08:06:47.297275Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-10T08:06:47.297279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-17-43.png" added="2022-08-10T10:17:47.559791Z" modified="2022-08-10T10:17:47.559798Z" visited="2022-08-10T10:17:47.559792Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:17:47.559795Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-24-05.png" added="2022-08-10T10:24:11.661997Z" modified="2022-08-10T10:24:11.662004Z" visited="2022-08-10T10:24:11.661998Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:24:11.662001Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-26-24.png" added="2022-08-10T10:26:26.623412Z" modified="2022-08-10T15:06:56.993350Z" visited="2022-08-10T10:26:26.623413Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:26:26.623415Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-10T15:06:56.993347Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-27-19.png" added="2022-08-10T10:27:23.990494Z" modified="2022-08-10T15:06:56.993370Z" visited="2022-08-10T10:27:23.990495Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:27:23.990497Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-10T15:06:56.993368Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-30-26.png" added="2022-08-10T10:30:30.422218Z" modified="2022-08-10T10:30:30.422226Z" visited="2022-08-10T10:30:30.422219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:30:30.422222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-32-11.png" added="2022-08-10T10:32:14.605781Z" modified="2022-08-10T15:06:56.993390Z" visited="2022-08-10T10:32:14.605783Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:32:14.605784Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-10T15:06:56.993383Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-46-01.png" added="2022-08-10T10:46:18.818509Z" modified="2022-08-10T15:06:56.993415Z" visited="2022-08-10T10:46:18.818510Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:46:18.818512Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-10T15:06:56.993413Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-49-21.png" added="2022-08-10T10:49:27.123964Z" modified="2022-08-10T15:06:56.993512Z" visited="2022-08-10T10:49:27.123965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:49:27.123967Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-10T15:06:56.993430Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_17-55-40.png" added="2022-08-10T10:55:43.256902Z" modified="2022-08-10T15:06:56.993532Z" visited="2022-08-10T10:55:43.256903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T10:55:43.256905Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-10T15:06:56.993530Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-10_20-36-10.png" added="2022-08-10T13:36:15.133591Z" modified="2022-08-10T13:36:15.133597Z" visited="2022-08-10T13:36:15.133592Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T13:36:15.133594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-11_05-59-00.png" added="2022-08-10T22:59:03.793158Z" modified="2022-08-10T22:59:03.793165Z" visited="2022-08-10T22:59:03.793160Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-10T22:59:03.793163Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/.config/clearine.conf" added="2022-08-15T21:44:13.629236Z" modified="2022-08-15T21:44:13.629243Z" visited="2022-08-15T21:44:13.629236Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>geany</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="geany" exec="&apos;geany %u&apos;" modified="2022-08-15T21:44:13.629240Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-16_18-27-05.png" added="2022-08-16T11:27:16.992075Z" modified="2022-08-16T11:27:16.992086Z" visited="2022-08-16T11:27:16.992077Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-16T11:27:16.992082Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/shikikan/Pictures/Screenshot_2022-08-16_18-37-22.png" added="2022-08-16T11:37:24.893662Z" modified="2022-08-16T11:37:59.073768Z" visited="2022-08-16T11:37:24.893663Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2022-08-16T11:37:24.893665Z" count="1"/>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2022-08-16T11:37:59.073764Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

@@ -1,0 +1,134 @@
+2022-07-22 19:31:18,124 -- INFO -- Start Glances 3.2.5
+2022-07-22 19:31:18,124 -- INFO -- CPython 3.10.5 (/usr/bin/python) and psutil 5.9.1 detected
+2022-07-22 19:31:18,216 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2022-07-22 19:31:18,661 -- INFO -- Start GlancesStandalone mode
+2022-07-22 19:31:18,836 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2022-07-22 19:31:18,850 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2022-07-22 19:31:18,850 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2022-07-22 19:31:18,875 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2022-07-22 19:31:18,947 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2022-07-22 19:31:18,981 -- CRITICAL -- Error while initializing the docker plugin (No module named 'dateutil')
+2022-07-22 19:31:18,989 -- ERROR -- Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/glances/stats.py", line 115, in _load_plugin
+    plugin = __import__(plugin_script[:-3])
+  File "/usr/lib/python3.10/site-packages/glances/plugins/glances_docker.py", line 26, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+
+2022-07-22 19:31:19,028 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2022-07-22 19:31:19,072 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2022-07-22 19:31:19,074 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2022-07-22 19:31:19,093 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2022-07-22 19:31:19,103 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2022-07-22 19:35:19,440 -- INFO -- Start Glances 3.2.5
+2022-07-22 19:35:19,440 -- INFO -- CPython 3.10.5 (/usr/bin/python) and psutil 5.9.1 detected
+2022-07-22 19:35:19,449 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2022-07-22 19:35:19,464 -- INFO -- Start GlancesStandalone mode
+2022-07-22 19:35:19,473 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2022-07-22 19:35:19,474 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2022-07-22 19:35:19,474 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2022-07-22 19:35:19,477 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2022-07-22 19:35:19,486 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2022-07-22 19:35:19,488 -- CRITICAL -- Error while initializing the docker plugin (No module named 'dateutil')
+2022-07-22 19:35:19,488 -- ERROR -- Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/glances/stats.py", line 115, in _load_plugin
+    plugin = __import__(plugin_script[:-3])
+  File "/usr/lib/python3.10/site-packages/glances/plugins/glances_docker.py", line 26, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+
+2022-07-22 19:35:19,490 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2022-07-22 19:35:19,497 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2022-07-22 19:35:19,498 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2022-07-22 19:35:19,500 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2022-07-22 19:35:19,505 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2022-07-22 19:41:22,275 -- INFO -- Start Glances 3.2.5
+2022-07-22 19:41:22,344 -- INFO -- CPython 3.10.5 (/usr/bin/python) and psutil 5.9.1 detected
+2022-07-22 19:41:22,470 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2022-07-22 19:41:23,660 -- INFO -- Start GlancesStandalone mode
+2022-07-22 19:41:24,698 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2022-07-22 19:41:24,746 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2022-07-22 19:41:24,746 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2022-07-22 19:41:24,949 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2022-07-22 19:41:25,512 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2022-07-22 19:41:25,699 -- CRITICAL -- Error while initializing the docker plugin (No module named 'dateutil')
+2022-07-22 19:41:25,700 -- ERROR -- Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/glances/stats.py", line 115, in _load_plugin
+    plugin = __import__(plugin_script[:-3])
+  File "/usr/lib/python3.10/site-packages/glances/plugins/glances_docker.py", line 26, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+
+2022-07-22 19:41:26,234 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2022-07-22 19:41:26,622 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2022-07-22 19:41:26,686 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2022-07-22 19:41:26,875 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2022-07-22 19:41:27,101 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2022-07-22 19:43:11,890 -- INFO -- Start Glances 3.2.5
+2022-07-22 19:43:11,890 -- INFO -- CPython 3.10.5 (/usr/bin/python) and psutil 5.9.1 detected
+2022-07-22 19:43:11,916 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2022-07-22 19:43:12,187 -- INFO -- Start GlancesStandalone mode
+2022-07-22 19:43:12,358 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2022-07-22 19:43:12,372 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2022-07-22 19:43:12,373 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2022-07-22 19:43:12,403 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2022-07-22 19:43:12,491 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2022-07-22 19:43:12,507 -- CRITICAL -- Error while initializing the docker plugin (No module named 'dateutil')
+2022-07-22 19:43:12,507 -- ERROR -- Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/glances/stats.py", line 115, in _load_plugin
+    plugin = __import__(plugin_script[:-3])
+  File "/usr/lib/python3.10/site-packages/glances/plugins/glances_docker.py", line 26, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+
+2022-07-22 19:43:12,530 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2022-07-22 19:43:12,590 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2022-07-22 19:43:12,614 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2022-07-22 19:43:12,623 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2022-07-22 19:43:12,632 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2022-07-22 19:49:54,960 -- INFO -- Start Glances 3.2.5
+2022-07-22 19:49:55,041 -- INFO -- CPython 3.10.5 (/usr/bin/python) and psutil 5.9.1 detected
+2022-07-22 19:49:55,151 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2022-07-22 19:49:55,830 -- INFO -- Start GlancesStandalone mode
+2022-07-22 19:49:56,285 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2022-07-22 19:49:56,303 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2022-07-22 19:49:56,303 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2022-07-22 19:49:56,346 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2022-07-22 19:49:56,440 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2022-07-22 19:49:56,474 -- CRITICAL -- Error while initializing the docker plugin (No module named 'dateutil')
+2022-07-22 19:49:56,475 -- ERROR -- Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/glances/stats.py", line 115, in _load_plugin
+    plugin = __import__(plugin_script[:-3])
+  File "/usr/lib/python3.10/site-packages/glances/plugins/glances_docker.py", line 26, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+
+2022-07-22 19:49:56,502 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2022-07-22 19:49:56,603 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2022-07-22 19:49:56,606 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2022-07-22 19:49:56,614 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2022-07-22 19:49:56,627 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2022-07-22 19:50:26,742 -- INFO -- Stop Glances (keypressed: 113)
+2022-07-23 12:40:20,917 -- INFO -- Start Glances 3.2.5
+2022-07-23 12:40:20,965 -- INFO -- CPython 3.10.5 (/usr/bin/python) and psutil 5.9.1 detected
+2022-07-23 12:40:21,032 -- INFO -- Read configuration file '/usr/share/doc/glances/glances.conf'
+2022-07-23 12:40:21,416 -- INFO -- Start GlancesStandalone mode
+2022-07-23 12:40:21,664 -- WARNING -- Missing Python Lib (No module named 'netifaces'), IP plugin is disabled
+2022-07-23 12:40:21,678 -- WARNING -- Missing Python Lib (No module named 'wifi'), Wifi plugin is disabled
+2022-07-23 12:40:21,679 -- WARNING -- Wifi lib is not compliant with Python 3, Wifi plugin is disabled
+2022-07-23 12:40:21,731 -- WARNING -- Missing Python Lib (No module named 'requests'), Ports plugin is limited to port scanning
+2022-07-23 12:40:21,797 -- WARNING -- Missing Python Lib (No module named 'requests'), cannot load nginx AMP
+2022-07-23 12:40:21,831 -- CRITICAL -- Error while initializing the docker plugin (No module named 'dateutil')
+2022-07-23 12:40:21,832 -- ERROR -- Traceback (most recent call last):
+  File "/usr/lib/python3.10/site-packages/glances/stats.py", line 115, in _load_plugin
+    plugin = __import__(plugin_script[:-3])
+  File "/usr/lib/python3.10/site-packages/glances/plugins/glances_docker.py", line 26, in <module>
+    from dateutil import parser
+ModuleNotFoundError: No module named 'dateutil'
+
+2022-07-23 12:40:21,867 -- WARNING -- Missing Python Lib (No module named 'pySMART'), HDD Smart plugin is disabled
+2022-07-23 12:40:21,923 -- WARNING -- Sparklines module not found (No module named 'sparklines')
+2022-07-23 12:40:21,926 -- WARNING -- Missing Python Lib (No module named 'requests'), Cloud plugin is disabled
+2022-07-23 12:40:21,935 -- WARNING -- Missing Python Lib (No module named 'py3nvml'), Nvidia GPU plugin is disabled
+2022-07-23 12:40:21,947 -- WARNING -- Missing Python Lib (No module named 'pymdstat'), Raid plugin is disabled
+2022-07-23 12:46:05,750 -- WARNING -- Update and export time higher than refresh_time.
